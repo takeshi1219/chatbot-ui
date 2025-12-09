@@ -12,8 +12,6 @@ Things like simpler deployment, better backend compatibility, and improved mobil
 
 Be back soon.
 
--- Takeshi
-
 ## Official Hosted Version
 
 Use Chatbot UI without having to host it yourself!
